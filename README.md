@@ -39,4 +39,4 @@
 - [Westchester County Corrections – Inmate Transfer Form](https://github.com/JovanniG33/Notification-Of-Inmate-Transfer)
 
 **IT295 – Systems Analysis and Design**  
-- [Paint Application 1.0 (My First App)](https://github.com/JovanniG33/Paint-App-1.0)
+- [Paint Application 1.0 (My First App)](https://github.com/JovanniGarcia/Paint-App-1.0)
