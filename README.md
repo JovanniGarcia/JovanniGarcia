@@ -22,7 +22,7 @@
 
 ## 📁 My Career
 
-- [View My Resume](https://github.com/JovanniGarcia/JovanniGarcia/blob/main/Resume_2025.md)  
+- [View My Resume](https://github.com/JovanniGarcia/JovanniGarcia/blob/main/Resume2025.md)  
 - [Career Development Section](https://github.com/JovanniG33/JovanniG33/blob/main/Career_Development_Section.md)
 
 ---
