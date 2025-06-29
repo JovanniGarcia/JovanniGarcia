@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Jovanni Garcia!  
-[Cybersecurity Professional](https://www.linkedin.com/in/jovanni-g-b4487a27a) • [Programmer](https://github.com/JovanniG33?tab=repositories)
+[Cybersecurity Professional](https://www.linkedin.com/in/jovanni-g-b4487a27a) • [Programmer](https://github.com/JovanniGarcia?tab=repositories)
 
 ---
 
@@ -12,7 +12,6 @@
 
 ## 🧾 Certifications
 
-- [Qualys Training & Certifications](https://github.com/JovanniG33/Qualys-Training-and-Certification)  
 - [Networks and Network Security – Google Certificate](https://coursera.org/share/646e1aebcb4e3c4c61f40d57135dd115)  
 - [Manage Security Risks – Google Certificate](https://coursera.org/share/22fd5d3b2ba21caa9773f21d2c9f1c52)  
 - [Foundations of Cybersecurity – Google Certificate](https://coursera.org/share/a0be92d19fa68c54652abbba9848d628)  
@@ -23,7 +22,7 @@
 
 ## 📁 My Career
 
-- [View My Resume](https://github.com/JovanniG33/JovanniG33/blob/main/Resume_2025.md)  
+- [View My Resume](https://github.com/JovanniGarcia/JovanniGarcia/blob/main/Resume_2025.md)  
 - [Career Development Section](https://github.com/JovanniG33/JovanniG33/blob/main/Career_Development_Section.md)
 
 ---
